@@ -1,4 +1,5 @@
-## Full stack blockchain developer 
+## Full stack blockchain developer
+> If there's a solution to a problem, I will definitely find it and implement it.
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
