@@ -1,4 +1,4 @@
-## Full stack blockchain developer
+## Full stack developer
 > If there's a solution to a problem, I will definitely find it and implement it.
 
 ### Languages:
