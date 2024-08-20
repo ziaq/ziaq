@@ -24,6 +24,7 @@
 ![Matomo](https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=matomo&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Web3 tools:
 ![Ethers](https://img.shields.io/badge/Ethers-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
