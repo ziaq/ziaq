@@ -28,17 +28,8 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 
 ### Web3 tools:
 ![Ethers](https://img.shields.io/badge/Ethers-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Etherscan](https://img.shields.io/badge/Etherscan-213253?style=for-the-badge&logo=bookmeter&logoColor=white)
-
-
-
-
-
-
-
-
-
-
