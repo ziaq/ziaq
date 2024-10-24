@@ -23,7 +23,6 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-ef7028?style=for-the-badge&logo=react-query&logoColor=white)
-![Tanstack Table](https://img.shields.io/badge/Tanstack_Table-1b91c6?style=for-the-badge&logo=reacttable&logoColor=white)
 
 
 ### Backend:
