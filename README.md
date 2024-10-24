@@ -14,6 +14,7 @@
 ![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-2c3e50?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn_ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-cf649a?style=for-the-badge&logo=sass&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-cf649a?style=for-the-badge&logo=sass&logoColor=white)
