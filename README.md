@@ -42,5 +42,6 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Web3 tools:
-![Ethers](https://img.shields.io/badge/Ethers-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Etherscan](https://img.shields.io/badge/Etherscan-213253?style=for-the-badge&logo=bookmeter&logoColor=white)
